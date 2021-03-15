@@ -1,0 +1,25 @@
+{
+  "wallet": [
+    {
+      "version": 3,
+      "id": "afb53d4a-103b-4294-8262-dca5f49f5cec",
+      "address": "53a48ee427c06a7347ccba7770e8b1e709bfd719",
+      "crypto": {
+        "ciphertext": "97ca4a112c786d906d757ce8e4a222e84e59726bf06b15b5fecc43da89cb29a4",
+        "cipherparams": {
+          "iv": "18d12078ce00129aa4fd1c0542949c44"
+        },
+        "cipher": "aes-128-ctr",
+        "kdf": "scrypt",
+        "kdfparams": {
+          "dklen": 32,
+          "salt": "e24fb82dce385728e1f6bfe3a6d9734c64859ff2b81287a1a78c138c8820af65",
+          "n": 8192,
+          "r": 8,
+          "p": 1
+        },
+        "mac": "ba0fde193f3dab5b7bb057e237fae8d4c570ec46d9e340335fc9e7bee9ea7914"
+      }
+    }
+  ]
+}
